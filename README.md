@@ -7,13 +7,13 @@ with <a href="https://love2d.org">LÖVE</a>, coming soon to <a href="https://vfj
 <br/>source code will soon be available on <a href="https://sr.ht">sourcehut</a>.
 </p>
 
-<small>
-<a href="https://onlytomorrow.net"><img src="./o10w-btn.png" alt="onlytomorrow"/></a>
-<a href="https://store.steampowered.com/app/1328500/"><img src="./chj-btn.png" alt="jack"/></a>
+<p>
+<a href="https://onlytomorrow.net"><img src="./tmrw.png" alt="onlytomorrow"/></a>
+<a href="https://store.steampowered.com/app/1328500/"><img src="./chj.png" alt="jack"/></a>
 <img src="./expl.png" alt="explicit game"/>
 <br/>
 <a href="https://wakatime.com/@aa4cac32-f3f2-4e47-a996-3e0f9b79f45d">
 <img src="https://wakatime.com/badge/user/aa4cac32-f3f2-4e47-a996-3e0f9b79f45d/project/f52b8dbe-1874-4a1a-a161-2db0af5a561d.svg" alt="idlenet project time">
 </a>
-</small>
+</p>
 
